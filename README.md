@@ -10,7 +10,7 @@ Sou estudante de computação em nuvem
 
 ## 🛠️ Ferramentas que estou utilizando:
 - **Git/GitHub**: Controle de versão e colaboração em projetos.
-- **MySQL**: Banco de dados relacional.
+- **SQL Server**: Banco de dados relacional.
 - **Python**: Desenvolvimento de scripts e automação de processos.
 
 ## 🎯 Meus objetivos:
