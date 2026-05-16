@@ -1,24 +1,65 @@
-# Olá! Eu sou Gabriel Goes 👋
+# Olá, eu sou Gabriel Goes 👋
 
-Sou estudante de computação em nuvem
+<div align="center">
 
-##  O que estou estudando atualmente:
-- **Amazon Web Services (AWS)**: Aprendendo sobre os principais serviços da AWS, como EC2, S3 e RDS.
-- **Terraform**: Estudando como automatizar o provisionamento de infraestrutura em nuvem com **infraestrutura como código (IaC)**.
-- **Python**: Usando Python para automação e integração com a AWS, além de desenvolver scripts úteis para projetos de infraestrutura.
-- **Redes de Computadores**: Estudando sobre protocolos, roteamento e infraestrutura de redes.
+Desenvolvedor back-end em evolução • SQL Server • Node.js • Cloud Learning
 
-## 🛠️ Ferramentas que estou utilizando:
-- **Git/GitHub**: Controle de versão e colaboração em projetos.
-- **SQL Server**: Banco de dados relacional.
-- **Python**: Desenvolvimento de scripts e automação de processos.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielgoes11/)
 
-## 🎯 Meus objetivos:
-- Aprender mais sobre **devops** e **automação de infraestrutura**.
-- Criar projetos práticos para aplicar meus conhecimentos em nuvem e Python.
-- Desenvolver habilidades em **infraestrutura como código (IaC)**.
+</div>
 
 ---
 
-## 📬 Vamos nos conectar!
-- **LinkedIn**: https://www.linkedin.com/in/gabrielgoes11/ 
+## 🧑‍💻 Sobre mim
+
+Atualmente trabalho com suporte N2 e banco de dados SQL Server, atuando diariamente na análise de problemas, consultas SQL e sustentação de ambientes.
+
+Além da experiência com suporte, venho aprofundando meus conhecimentos em desenvolvimento back-end com JavaScript e Node.js, construindo projetos práticos para evoluir cada vez mais como desenvolvedor.
+
+Tenho grande interesse em arquitetura, performance, APIs e cloud computing, sempre buscando aprender na prática.
+
+---
+
+## 🚀 Tecnologias e Ferramentas
+
+<p align="center">
+  <a href="https://go-skill-icons.vercel.app/">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=js,nodejs,expressjs,api,sqlserver,postgresql,sqlite,aws,python,git,github,vscode,react,slack&titles=true" />
+  </a>
+</p>
+
+---
+
+## 📚 Estudando atualmente
+
+- ⚡ **Node.js & JavaScript** — back-end, APIs e boas práticas
+- ☁️ **AWS** — explorando serviços e fundamentos de cloud
+- 🗄️ **SQL & Banco de Dados** — performance, modelagem e otimização
+- 🧠 **Arquitetura e lógica** — evoluindo além do código
+
+---
+
+## 🎯 Objetivos
+
+- Construir projetos que resolvam problemas reais
+- Evoluir profissionalmente como desenvolvedor back-end
+- Consolidar conhecimentos em banco de dados e cloud
+- Aprender continuamente e compartilhar conhecimento
+
+---
+
+## 📈 Atualmente focado em
+
+- Desenvolvimento back-end com Node.js
+- APIs REST
+- SQL Server
+- Cloud fundamentals
+- Projetos práticos para portfólio
+
+---
+
+<div align="center">
+
+💡 Sempre aprendendo, construindo e evoluindo.
+
+</div>
